@@ -8,8 +8,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        int min = 2147483647;
-        int max = -2147483648;
+        int min = 2147483647; //Integer.MAX_VALUE
+        int max = -2147483648; //Integer.MIN_VALUE
 //        boolean first = true;
 
         while (true) {
