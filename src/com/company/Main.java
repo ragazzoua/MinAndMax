@@ -20,7 +20,7 @@ public class Main {
                 int number = scanner.nextInt();
 
                 if (first) {
-                    first=false;
+                    first = false;
                     min = number;
                     max = number;
                 }
